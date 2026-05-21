@@ -2,7 +2,8 @@
 # YOUTUBE TO VM
 ITS FINALLY RELEASED!!!!
 # What can it do?
-Ill say that soon TOO LAZY RN
+it lets you do chat uses windows live streams
+more info soon TOO LAZY RN
 # Do i need to credit you?
 yes please do else ill be sad :(
 # What packages required
